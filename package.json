@@ -1,0 +1,19 @@
+{
+  "name": "guia-perguntas",
+  "version": "1.0.0",
+  "description": "Plataforma de perguntas e respostas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Dorneles",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
