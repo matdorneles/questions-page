@@ -1,4 +1,3 @@
-#questions-page
 Simple Q&A page, built in:
 
 - Javascript
